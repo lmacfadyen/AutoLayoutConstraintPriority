@@ -12,6 +12,7 @@
 		1183BD991CC18EED00D6BE83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1183BD971CC18EED00D6BE83 /* Main.storyboard */; };
 		1183BD9B1CC18EED00D6BE83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1183BD9A1CC18EED00D6BE83 /* Assets.xcassets */; };
 		1183BD9E1CC18EED00D6BE83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1183BD9C1CC18EED00D6BE83 /* LaunchScreen.storyboard */; };
+		1183BDAA1CC1A26200D6BE83 /* iOSInsightLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1183BDA91CC1A26200D6BE83 /* iOSInsightLogo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1183BD9A1CC18EED00D6BE83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1183BD9D1CC18EED00D6BE83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1183BD9F1CC18EED00D6BE83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1183BDA91CC1A26200D6BE83 /* iOSInsightLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iOSInsightLogo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1183BD931CC18EED00D6BE83 /* AppDelegate.swift */,
 				1183BD951CC18EED00D6BE83 /* ViewController.swift */,
+				1183BDA91CC1A26200D6BE83 /* iOSInsightLogo.png */,
 				1183BD971CC18EED00D6BE83 /* Main.storyboard */,
 				1183BD9A1CC18EED00D6BE83 /* Assets.xcassets */,
 				1183BD9C1CC18EED00D6BE83 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 				1183BD9E1CC18EED00D6BE83 /* LaunchScreen.storyboard in Resources */,
 				1183BD9B1CC18EED00D6BE83 /* Assets.xcassets in Resources */,
 				1183BD991CC18EED00D6BE83 /* Main.storyboard in Resources */,
+				1183BDAA1CC1A26200D6BE83 /* iOSInsightLogo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
